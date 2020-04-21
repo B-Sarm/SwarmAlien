@@ -707,3 +707,271 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-19.03.01:790][231]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.21-19.03.01:790][231]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.04.21-19.03.01:790][231]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.21-19.04.15:355][971]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2020.04.21-19.04.15:983][971]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2020.04.21-19.04.15:983][971]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.04.21-19.04.16:100][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.04.21-19.04.16:101][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:111][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2020.04.21-19.04.16:111][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.04.21-19.04.16:111][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.04.21-19.04.16:111][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2020.04.21-19.04.16:111][971]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.04.21-19.04.16:174][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2020.04.21-19.04.16:174][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:175][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2020.04.21-19.04.16:175][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:177][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2020.04.21-19.04.16:177][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:181][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.04.21-19.04.16:181][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:183][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.04.21-19.04.16:183][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:185][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.04.21-19.04.16:185][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:186][971]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.04.21-19.04.16:323][971]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2020.04.21-19.04.16:326][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2020.04.21-19.04.16:326][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:328][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2020.04.21-19.04.16:328][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:331][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2020.04.21-19.04.16:331][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:334][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2020.04.21-19.04.16:334][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.16:336][971]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.04.21-19.04.16:336][971]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-19.04.20:809][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2020.04.21-19.04.21:798][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 146
+[2020.04.21-19.04.23:090][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 136
+[2020.04.21-19.04.25:825][355]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 126
+[2020.04.21-19.04.27:673][442]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2020.04.21-19.04.30:339][562]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.04.21-19.04.31:085][591]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2020.04.21-19.04.31:303][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2020.04.21-19.04.36:827][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.04.21-19.04.37:129][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.04.21-19.04.37:867][856]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2020.04.21-19.04.38:003][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.04.21-19.04.43:351][ 74]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.04.21-19.04.43:794][ 86]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.04.21-19.04.47:669][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.04.21-19.04.47:745][247]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.04.21-19.04.47:780][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.04.21-19.04.49:649][330]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.21-19.04.50:881][397]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.21-19.04.51:078][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.21-19.04.51:420][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.21-19.04.51:656][437]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.21-19.06.21:190][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.04.21-19.06.21:400][426]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMapE6E690C644F17770E3DEA19037135C2B.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.21-19.06.21:564][426]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMap_BuiltData209F46BB4B9EA42AA636D8AFDEE69D7F.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.21-19.06.21:594][426]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.21-19.06.21:594][426]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.21-19.06.21:594][426]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.21-19.07.29:500][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.21-19.07.29:658][484]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.21-19.07.30:194][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.04.21-19.07.30:361][500]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_2
+[2020.04.21-19.07.32:625][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.21-19.07.32:785][620]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_3
+[2020.04.21-19.07.36:893][848]LogObjectTools: Deleting 1 worlds: /Game/Levels/ThirdPersonExampleMap_3.ThirdPersonExampleMap_3
+[2020.04.21-19.07.36:893][848]LogObjectTools: Currently 5 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2020.04.21-19.07.36:921][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.21-19.07.38:870][848]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.21-19.07.38:921][848]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.07.38:922][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.07.39:036][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.21-19.16.21:463][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.04.21-19.16.21:464][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2020.04.21-19.20.29:917][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.04.21-19.20.29:920][ 34]LogMetaData: Removing '/Game/Levels/World.SKEL_World_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2020.04.21-19.20.29:920][ 34]LogMetaData: Removing '/Game/Levels/World.World_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2020.04.21-19.20.29:977][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/World" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.21-19.20.30:018][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.21-19.20.30:206][ 34]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/World80F4E51F45E5E06C64692888ED7DBE94.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap'
+[2020.04.21-19.20.30:212][ 34]LogFileHelpers: Saving map 'World' took 0.236
+[2020.04.21-19.20.30:400][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.04.21-19.20.30:442][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.21-19.20.30:469][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.21-19.20.30:527][ 34]AssetCheck: New page: Asset Save: World
+[2020.04.21-19.20.30:527][ 34]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2020.04.21-19.20.46:550][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.04.21-19.20.46:551][807]LogMetaData: Removing '/Game/Levels/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap_2.PackageMetaData'
+[2020.04.21-19.20.46:551][807]LogMetaData: Removing '/Game/Levels/MainMenu.MainMenu_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap_2.PackageMetaData'
+[2020.04.21-19.20.46:599][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.21-19.20.46:650][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.21-19.20.46:836][807]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenu520C698C44F884290C87E38EE4A83E5F.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/MainMenu.umap'
+[2020.04.21-19.20.46:841][807]LogFileHelpers: Saving map 'MainMenu' took 0.243
+[2020.04.21-19.20.47:039][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.04.21-19.20.47:087][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.04.21-19.20.47:117][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.21-19.20.47:168][807]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.21-19.20.47:169][807]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.04.21-19.21.04:728][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.04.21-19.22.33:404][113]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.21-19.22.33:747][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.04.21-19.22.35:784][113]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.21-19.24.18:749][775]LogEditorTransaction: Undo Move Anchor
+[2020.04.21-19.25.46:942][814]LogSlate: Took 0.010542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.21-19.29.47:922][ 70]LogEditorTransaction: Undo Edit Size To Content
+[2020.04.21-19.31.54:976][850]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.04.21-19.31.54:978][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.082
+[2020.04.21-19.31.54:979][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.04.21-19.31.54:979][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.04.21-19.31.54:979][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.21-19.31.54:987][850]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenu_Auto26C209B3445B63DD45C5928A0FE8DD460.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset'
+[2020.04.21-19.31.54:988][850]LogFileHelpers: Auto-saving content packages took 0.010
+[2020.04.21-19.39.27:341][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.21-19.39.27:354][510]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenu20E8A30B4E882AC76058F38AC126E6DD.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset'
+[2020.04.21-19.39.27:380][510]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.21-19.39.27:380][510]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.21-19.40.10:550][136]BlueprintLog: New page: Compile MainMenu
+[2020.04.21-19.40.10:600][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.04.21-19.40.27:871][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.21-19.40.27:891][297]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenu16F2B44F4B56A0F7F63EC699833B7123.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset'
+[2020.04.21-19.40.27:934][297]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.21-19.40.27:934][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.21-19.40.51:153][ 13]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.04.21-19.41.00:909][327]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.21-19.42.35:048][643]BlueprintLog: New page: Compile Options
+[2020.04.21-19.42.35:377][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.04.21-19.42.35:910][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/Options.uasset" SILENT=true
+[2020.04.21-19.42.35:916][657]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/OptionsB293A6F4430F0EF91A65BEBA03B77DCB.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/Options.uasset'
+[2020.04.21-19.42.35:935][657]AssetCheck: New page: Asset Save: Options
+[2020.04.21-19.42.35:935][657]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.21-19.42.53:765][942]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.04.21-19.42.53:815][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.04.21-19.42.53:820][942]Cmd: MAP LOAD FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.21-19.42.53:820][942]LightingResults: New page: Lighting Build
+[2020.04.21-19.42.53:823][942]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.21-19.42.53:828][942]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.42.53:828][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.42.53:828][942]MapCheck: New page: Map Check
+[2020.04.21-19.42.53:828][942]LightingResults: New page: Lighting Build
+[2020.04.21-19.42.53:885][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.04.21-19.42.53:931][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.04.21-19.42.53:976][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.04.21-19.42.53:986][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.21-19.42.54:035][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.04.21-19.42.54:052][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.21-19.42.54:052][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2020.04.21-19.42.54:053][942]LogFileHelpers: Loading map 'MainMenu' took 0.236
+[2020.04.21-19.43.02:643][356]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.04.21-19.44.39:063][480]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.44.39:063][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.44.46:955][723]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.04.21-19.46.45:666][539]LogSlate: Took 0.002218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.21-19.48.26:820][137]BlueprintLog: New page: Compile MainMenu
+[2020.04.21-19.48.27:149][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.04.21-19.48.27:875][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.21-19.48.27:921][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.04.21-19.48.28:230][163]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenuCF7958C0403392C67B1727A500D3F974.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/MainMenu.umap'
+[2020.04.21-19.48.28:251][163]LogFileHelpers: Saving map 'MainMenu' took 0.377
+[2020.04.21-19.48.28:273][163]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.21-19.48.28:273][163]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.04.21-19.48.31:510][313]LogSlate: Window 'MainMenu' being destroyed
+[2020.04.21-19.48.31:521][313]LogSlate: Window 'MainMenu' being destroyed
+[2020.04.21-19.48.31:547][313]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.48.31:548][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.48.31:563][313]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.48.31:563][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.48.31:613][313]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.48.31:613][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.48.31:618][313]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.48.31:618][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.48.31:667][313]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.48.31:667][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.48.33:338][389]LogAIModule: Creating AISystem for world World
+[2020.04.21-19.48.33:360][389]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/World.World
+[2020.04.21-19.48.33:426][389]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.04.21-19.48.33:430][389]Cmd: MAP LOAD FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.21-19.48.33:430][389]LightingResults: New page: Lighting Build
+[2020.04.21-19.48.33:431][389]LoadErrors: New page: Loading map: World.umap
+[2020.04.21-19.48.33:432][389]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.48.33:432][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.48.33:432][389]MapCheck: New page: Map Check
+[2020.04.21-19.48.33:432][389]LightingResults: New page: Lighting Build
+[2020.04.21-19.48.33:491][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.04.21-19.48.33:499][389]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.21-19.48.33:541][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.04.21-19.48.33:561][389]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.21-19.48.33:561][389]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.303ms to complete.
+[2020.04.21-19.48.33:561][389]LogFileHelpers: Loading map 'World' took 0.132
+[2020.04.21-19.48.36:586][540]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/World.World:PersistentLevel.World
+[2020.04.21-19.49.26:412][849]LogEditorTransaction: Undo Add Node
+[2020.04.21-19.51.35:625][184]BlueprintLog: New page: Compile World
+[2020.04.21-19.51.35:924][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.04.21-19.51.36:572][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/World" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.21-19.51.36:610][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.21-19.51.36:895][210]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/World00A0993C4827C6FF71D8DF928788609D.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap'
+[2020.04.21-19.51.36:918][210]LogFileHelpers: Saving map 'World' took 0.346
+[2020.04.21-19.51.36:942][210]AssetCheck: New page: Asset Save: World
+[2020.04.21-19.51.36:942][210]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2020.04.21-19.51.38:027][256]LogSlate: Window 'World' being destroyed
+[2020.04.21-19.51.38:040][256]LogSlate: Window 'World' being destroyed
+[2020.04.21-19.51.38:055][256]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.51.38:055][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.52.07:524][932]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.21-19.52.58:100][246]LogEditorTransaction: Undo Add Node
+[2020.04.21-19.52.58:330][250]LogEditorTransaction: Undo Create Pin Link
+[2020.04.21-19.52.59:430][293]LogEditorTransaction: Undo Break Pin Links
+[2020.04.21-19.53.00:061][322]LogEditorTransaction: Undo Add Node
+[2020.04.21-19.54.34:771][581]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.21-19.57.09:484][584]BlueprintLog: New page: Compile MainMenu
+[2020.04.21-19.57.09:554][584]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.04.21-19.57.10:525][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.21-19.57.10:548][622]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenuC04CDD60449713A6357BC5A37E2A8A3B.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset'
+[2020.04.21-19.57.10:567][622]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.21-19.57.10:567][622]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.21-19.58.32:115][ 69]BlueprintLog: New page: Compile MainMenu
+[2020.04.21-19.58.32:173][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.21-19.58.32:836][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.21-19.58.32:859][ 88]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/MainMenu992C2C354F1D8C761526A19CCABCD377.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/MainMenu.uasset'
+[2020.04.21-19.58.32:877][ 88]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.21-19.58.32:877][ 88]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.21-19.58.35:392][182]LogSlate: Window 'MainMenu' being destroyed
+[2020.04.21-19.58.35:406][182]LogSlate: Window 'MainMenu' being destroyed
+[2020.04.21-19.58.35:413][182]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.58.35:413][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.58.35:434][182]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-19.58.35:434][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-19.58.36:797][241]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.04.21-19.58.48:660][703]BlueprintLog: New page: Compile Options
+[2020.04.21-19.58.48:715][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.04.21-19.58.49:510][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/Options.uasset" SILENT=true
+[2020.04.21-19.58.49:525][728]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/OptionsE3A56E074939B06205BD36B8DC381697.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/Options.uasset'
+[2020.04.21-19.58.49:549][728]AssetCheck: New page: Asset Save: Options
+[2020.04.21-19.58.49:549][728]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.21-20.01.39:537][630]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.21-20.02.12:754][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.21-20.02.12:755][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/World' took 0.044
+[2020.04.21-20.02.12:756][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Options] ([1] browsable assets)...
+[2020.04.21-20.02.12:756][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Options]
+[2020.04.21-20.02.12:756][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/UI/Options_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.21-20.02.12:770][ 36]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Options_Auto3AD73C016426BD6324FF9B7893C6FE5B8.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/UI/Options_Auto3.uasset'
+[2020.04.21-20.02.12:772][ 36]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.04.21-20.03.45:959][671]BlueprintLog: New page: Compile Options
+[2020.04.21-20.03.46:018][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.21-20.03.46:658][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/Options.uasset" SILENT=true
+[2020.04.21-20.03.46:675][692]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/OptionsF91C6EF34158FF8EA4DDF6ADA123A6C9.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/UI/Options.uasset'
+[2020.04.21-20.03.46:692][692]AssetCheck: New page: Asset Save: Options
+[2020.04.21-20.03.46:692][692]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.21-20.03.48:278][749]LogSlate: Window 'Options' being destroyed
+[2020.04.21-20.03.48:296][749]LogSlate: Window 'Options' being destroyed
+[2020.04.21-20.03.48:302][749]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-20.03.48:302][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-20.03.48:325][749]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-20.03.48:325][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.21-20.04.06:107][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/World" FILE="../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.21-20.04.06:150][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.04.21-20.04.06:430][696]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/World55A8D648412C2379CACD20849E412B0D.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap'
+[2020.04.21-20.04.06:472][696]AssetCheck: New page: Asset Save: World
+[2020.04.21-20.04.06:472][696]LogContentValidation: Display: Validating World /Game/Levels/World.World
