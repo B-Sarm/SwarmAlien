@@ -689,3 +689,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-18.51.27:213][965]Cmd: MAP CHECK NOTIFYRESULTS
 [2020.04.21-18.51.27:213][965]MapCheck: New page: ThirdPersonExampleMap - Apr 21, 2020, 10:51:27 AM
 [2020.04.21-18.51.27:217][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.362ms to complete.
+[2020.04.21-18.53.26:895][777]LogSlate: Window 'Message Log' being destroyed
+[2020.04.21-18.53.26:905][777]LogSlate: Window 'Message Log' being destroyed
+[2020.04.21-19.00.49:431][819]LogAkWaapiClient: Unsubscription failed: {"details":{},"message":"Could not find the subscription id.","uri":"wamp.error.no_such_subscription"}
+[2020.04.21-19.00.49:432][819]LogAkWaapiClient: Unsubscription failed: {"details":{},"message":"Could not find the subscription id.","uri":"wamp.error.no_such_subscription"}
+[2020.04.21-19.00.49:432][819]LogAkWaapiClient: Unsubscription failed: {"details":{},"message":"Could not find the subscription id.","uri":"wamp.error.no_such_subscription"}
+[2020.04.21-19.00.49:432][819]LogAkWaapiClient: Unsubscription failed: {"details":{},"message":"Could not find the subscription id.","uri":"wamp.error.no_such_subscription"}
+[2020.04.21-19.00.56:748][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.04.21-19.00.56:987][840]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMap_Auto1D861C3BE4A4F3E0C770CA58D2A56D73B.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.04.21-19.00.56:990][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.277
+[2020.04.21-19.00.56:990][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2020.04.21-19.01.13:816][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.04.21-19.01.15:303][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.21-19.03.01:437][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.04.21-19.03.01:609][231]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMap735148F6493BABC0FD58E5BB8B373028.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.21-19.03.01:765][231]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMap_BuiltDataAC9CB2BB49007B03E9592ABA2C6C27DB.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.21-19.03.01:790][231]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.21-19.03.01:790][231]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.21-19.03.01:790][231]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
