@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{11D85C32-04AB-4E95-92DE-E52E0F5D5D5D}" SchemaVersion="97">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{11D85C32-04AB-4E95-92DE-E52E0F5D5D5D}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{11D85C32-04AB-4E95-92DE-E52E0F5D5D5D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Footsteps" ID="{EE8CAE05-CC97-4524-B066-1E2A69411D2B}"/>
+				<Event Name="GunShots" ID="{8B0CE2D7-C18A-4E51-88DB-237BD2DC0CEC}"/>
+				<Event Name="New_Event" ID="{B057A249-2C4B-4A6F-A51F-0298CD12BA6A}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
