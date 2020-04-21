@@ -975,3 +975,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-20.04.06:430][696]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/World55A8D648412C2379CACD20849E412B0D.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/Levels/World.umap'
 [2020.04.21-20.04.06:472][696]AssetCheck: New page: Asset Save: World
 [2020.04.21-20.04.06:472][696]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2020.04.21-20.06.35:375][266]LogAkWaapiClient: Unsubscription failed: {"message":"Failed to receive WAAPI message in time."}
+[2020.04.21-20.06.36:058][270]LogAkWaapiClient: Warning: Lost connection to WAAPI client. Attempting reconnection ...
+[2020.04.21-20.06.38:066][276]LogAkWaapiClient: Warning: Failed to connect to WAAPI client on local host. Trying again in 2 seconds.
+[2020.04.21-20.06.42:091][288]LogAkWaapiClient: Warning: Failed to connect to WAAPI client on local host. Trying again in 4 seconds.
