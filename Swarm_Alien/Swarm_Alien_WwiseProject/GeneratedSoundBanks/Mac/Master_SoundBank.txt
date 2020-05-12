@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+
+Effect plug-ins	ID	Name	Type				Notes
+	95979310	Plate_Medium (Custom)	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	292329815	FS_Boots_Metal_04	C:\Users\owner\Documents\GitHub\SwarmAlien\Swarm_Alien\Swarm_Alien_WwiseProject\.cache\Mac\SFX\237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close (1)_F4E854A7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FS_Boots_Metal_04		59292
+	723469021	FS_Boots_Metal_01	C:\Users\owner\Documents\GitHub\SwarmAlien\Swarm_Alien\Swarm_Alien_WwiseProject\.cache\Mac\SFX\237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close (1)_23BFAC08.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FS_Boots_Metal_01		48186
+	785326006	FS_Boots_Metal_03	C:\Users\owner\Documents\GitHub\SwarmAlien\Swarm_Alien\Swarm_Alien_WwiseProject\.cache\Mac\SFX\237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close (1)_10EFBF6D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FS_Boots_Metal_03		62994
+	809536787	FS_Boots_Metal_05	C:\Users\owner\Documents\GitHub\SwarmAlien\Swarm_Alien\Swarm_Alien_WwiseProject\.cache\Mac\SFX\237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close (1)_251BF80E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FS_Boots_Metal_05		66696
+	938570340	FS_Boots_Metal_02	C:\Users\owner\Documents\GitHub\SwarmAlien\Swarm_Alien\Swarm_Alien_WwiseProject\.cache\Mac\SFX\237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close (1)_C23214E2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\FS_Boots_Metal_02		59292
+
