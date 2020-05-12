@@ -3,8 +3,14 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{41727167-D7AA-4F28-937F-9D97BF37F22D}">
 			<PropertyList>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\owner\Documents\Weapon Sounds for FPS GAME\Bounced Files\"/>
+				<Property Name="Event Action List\{9464D51B-5FFA-423E-84DE-3516B85DD7BE}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{9C5E5797-B95A-421D-A280-95A6FA709D2F}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{ADF0D968-7AAB-4700-9C7E-6A050067677E}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{D774980B-AFFC-4E5D-8850-86F6A906542D}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E0A0AA69-0AB9-460D-AC55-F54D2127E397}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E23086DA-66B9-46E0-8CF2-F890714F9AFD}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{FFC95204-5A6A-41E6-9C85-B072B2F48193}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>

@@ -14,6 +14,61 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Shoot_Pistol" ID="{E0A0AA69-0AB9-460D-AC55-F54D2127E397}">
+					<ChildrenList>
+						<Action Name="" ID="{11AF25F4-6AFB-4443-81E8-DA78D49F5ECB}" ShortID="486323031">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pistols" ID="{76B11C38-63C3-427F-8434-D9B70B89D35D}" WorkUnitID="{9AF5ADB7-2A0B-4F00-830F-34071B7E2AD3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Shoot_Assault_Rifle" ID="{9464D51B-5FFA-423E-84DE-3516B85DD7BE}">
+					<ChildrenList>
+						<Action Name="" ID="{C9894F21-25B0-492E-B380-83FE8C1B398B}" ShortID="943234556">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Assault Rifles" ID="{07F4EF63-82BF-4435-8847-83152FE390BF}" WorkUnitID="{9AF5ADB7-2A0B-4F00-830F-34071B7E2AD3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Shoot_Sniper" ID="{E23086DA-66B9-46E0-8CF2-F890714F9AFD}">
+					<ChildrenList>
+						<Action Name="" ID="{164F04EC-9513-412E-B2A9-7DA800DBCDF5}" ShortID="387666905">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Snipers" ID="{83B70C09-DE60-4E51-8795-680EE5A7EBEB}" WorkUnitID="{9AF5ADB7-2A0B-4F00-830F-34071B7E2AD3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Shoot_SMG" ID="{FFC95204-5A6A-41E6-9C85-B072B2F48193}">
+					<ChildrenList>
+						<Action Name="" ID="{30EF71E0-27EE-46D6-B538-8A29E66ACA5D}" ShortID="809595849">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Submachine Guns" ID="{73DF301B-AF83-4FFA-9224-6C45029C0E1E}" WorkUnitID="{9AF5ADB7-2A0B-4F00-830F-34071B7E2AD3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Shoot_Shotgun" ID="{9C5E5797-B95A-421D-A280-95A6FA709D2F}">
+					<ChildrenList>
+						<Action Name="" ID="{F665EB5A-77CD-45B7-B96D-0ABB52843B44}" ShortID="941658991">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shotguns" ID="{75B9562E-592C-4F92-84B2-62C10D873526}" WorkUnitID="{9AF5ADB7-2A0B-4F00-830F-34071B7E2AD3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

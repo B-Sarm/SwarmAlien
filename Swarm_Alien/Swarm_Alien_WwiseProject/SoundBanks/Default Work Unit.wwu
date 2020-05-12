@@ -5,6 +5,11 @@
 			<ChildrenList>
 				<SoundBank Name="Master_SoundBank" ID="{E63A1553-E6DA-4BD0-89F5-E5CD901D3CE6}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Shoot_SMG" ID="{FFC95204-5A6A-41E6-9C85-B072B2F48193}" WorkUnitID="{ED66D44D-518F-45EA-A4C7-4C742F85CC8A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Shoot_Shotgun" ID="{9C5E5797-B95A-421D-A280-95A6FA709D2F}" WorkUnitID="{ED66D44D-518F-45EA-A4C7-4C742F85CC8A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Shoot_Assault_Rifle" ID="{9464D51B-5FFA-423E-84DE-3516B85DD7BE}" WorkUnitID="{ED66D44D-518F-45EA-A4C7-4C742F85CC8A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Shoot_Pistol" ID="{E0A0AA69-0AB9-460D-AC55-F54D2127E397}" WorkUnitID="{ED66D44D-518F-45EA-A4C7-4C742F85CC8A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Shoot_Sniper" ID="{E23086DA-66B9-46E0-8CF2-F890714F9AFD}" WorkUnitID="{ED66D44D-518F-45EA-A4C7-4C742F85CC8A}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Footsteps" ID="{ADF0D968-7AAB-4700-9C7E-6A050067677E}" WorkUnitID="{ED66D44D-518F-45EA-A4C7-4C742F85CC8A}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>

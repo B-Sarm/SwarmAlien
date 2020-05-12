@@ -899,3 +899,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.12-17.46.32:715][371]LogAkAudio: Error: AK::SoundEngine::AddOutput()/ReplaceOutput() - Device ShareSet not found in Init bank.
 [2020.05.12-17.46.32:716][371]LogAkAudio: Reverting to default Built-in Audio Device.
 [2020.05.12-17.46.34:395][432]LogAkAudio: Audio thread resumed, audio restarts.
+[2020.05.12-18.56.44:074][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2020.05.12-18.56.44:099][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.078
+[2020.05.12-18.56.44:100][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WwiseAudio/Events/Default_Work_Unit/New_Event] ([1] browsable assets)...
+[2020.05.12-18.56.44:100][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/WwiseAudio/Events/Default_Work_Unit/New_Event]
+[2020.05.12-18.56.44:102][ 72]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/New_Event_Auto39A387FD1416693922ED8F7BEB200AD26.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/WwiseAudio/Events/Default_Work_Unit/New_Event_Auto3.uasset'
+[2020.05.12-18.56.44:104][ 72]LogFileHelpers: Auto-saving content packages took 0.005
+[2020.05.12-18.56.45:675][ 77]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Shoot_Pistol3402BA704007B8DEA15CA8BBE525B6F4.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Events/Default_Work_Unit/Shoot_Pistol.uasset'
+[2020.05.12-18.56.45:971][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.05.12-18.56.46:023][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.12-18.56.46:058][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.12-18.56.46:137][ 78]AssetCheck: New page: Asset Save: Shoot_Pistol
+[2020.05.12-18.56.46:137][ 78]LogContentValidation: Display: Validating AkAudioEvent /Game/WwiseAudio/Events/Default_Work_Unit/Shoot_Pistol.Shoot_Pistol
+[2020.05.12-18.57.02:029][125]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Shoot1A4D2F41459EB5E22AB1A596E8F3FD8A.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Events/Default_Work_Unit/Shoot.uasset'
+[2020.05.12-18.57.02:247][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.05.12-18.57.02:292][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.12-18.57.02:329][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.12-18.57.02:404][126]AssetCheck: New page: Asset Save: Shoot
+[2020.05.12-18.57.02:404][126]LogContentValidation: Display: Validating AkAudioEvent /Game/WwiseAudio/Events/Default_Work_Unit/Shoot.Shoot
+[2020.05.12-18.57.22:654][186]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Shoot_Assault_RifleA2AEB6E446F6C0A214096991B7CC715D.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Events/Default_Work_Unit/Shoot_Assault_Rifle.uasset'
+[2020.05.12-18.57.22:827][186]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/WwiseAudio/Events/Default_Work_Unit/Shoot.Shoot'
+[2020.05.12-18.57.22:900][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.05.12-18.57.22:945][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.05.12-18.57.22:979][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.05.12-18.57.23:056][187]AssetCheck: New page: Asset Save: Shoot_Assault_Rifle
+[2020.05.12-18.57.23:056][187]LogContentValidation: Display: Validating AkAudioEvent /Game/WwiseAudio/Events/Default_Work_Unit/Shoot_Assault_Rifle.Shoot_Assault_Rifle
+[2020.05.12-18.57.38:284][232]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Shoot_SniperEF5A636C47B05EE61E2E7C8360F9A305.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Events/Default_Work_Unit/Shoot_Sniper.uasset'
+[2020.05.12-18.57.38:526][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.05.12-18.57.38:571][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.05.12-18.57.38:608][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.12-18.57.38:682][233]AssetCheck: New page: Asset Save: Shoot_Sniper
+[2020.05.12-18.57.38:682][233]LogContentValidation: Display: Validating AkAudioEvent /Game/WwiseAudio/Events/Default_Work_Unit/Shoot_Sniper.Shoot_Sniper
+[2020.05.12-18.58.46:449][434]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Shoot_Shotgun4CE7C85B46347ADB02A9E183D1BF8A4E.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Events/Default_Work_Unit/Shoot_Shotgun.uasset'
+[2020.05.12-18.58.46:700][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.05.12-18.58.46:750][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.12-18.58.46:782][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.05.12-18.58.46:857][435]AssetCheck: New page: Asset Save: Shoot_Shotgun
+[2020.05.12-18.58.46:858][435]LogContentValidation: Display: Validating AkAudioEvent /Game/WwiseAudio/Events/Default_Work_Unit/Shoot_Shotgun.Shoot_Shotgun
+[2020.05.12-18.59.08:811][500]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Shoot_SMG28A8C5DB44A6DA392213BC9ECA60FA5C.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Events/Default_Work_Unit/Shoot_SMG.uasset'
+[2020.05.12-18.59.09:050][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.12-18.59.09:104][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.05.12-18.59.09:137][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.05.12-18.59.09:212][501]AssetCheck: New page: Asset Save: Shoot_SMG
+[2020.05.12-18.59.09:212][501]LogContentValidation: Display: Validating AkAudioEvent /Game/WwiseAudio/Events/Default_Work_Unit/Shoot_SMG.Shoot_SMG

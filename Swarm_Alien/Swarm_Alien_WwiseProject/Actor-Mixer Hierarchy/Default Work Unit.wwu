@@ -220,6 +220,34 @@
 							</ReferenceList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="Pistols" ID="{76B11C38-63C3-427F-8434-D9B70B89D35D}" ShortID="717218220">
+							<PropertyList>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{635C5BD5-2DAC-48DA-8BBC-E01BC2BD551A}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="101"/>
+													<Property Name="Min" Type="Real64" Value="-101"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{5C46254E-103E-4CD0-9282-C53F8587845A}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="1"/>
+													<Property Name="Min" Type="Real64" Value="-2"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
@@ -228,6 +256,116 @@
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
 								</Reference>
 							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Pistol Shots" ID="{92D6B688-E646-4273-8157-E7E7DAD4890A}" ShortID="375084366">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Pistol Shots" ID="{2AA35BFB-75E2-4262-BE3D-9D49278F1548}">
+											<PropertyList>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.470740527681661"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.05559997116495"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Pistol Shots.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="69293786"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Pistol Shots" ID="{2AA35BFB-75E2-4262-BE3D-9D49278F1548}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Pistol Shots_01" ID="{957D66E5-8C65-4426-9AC0-06B0A97B309A}" ShortID="137669594">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Pistol Shots" ID="{83C46F91-FDE3-4611-9671-7E7DC647E892}">
+											<PropertyList>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="3.82298367935409"/>
+												<Property Name="TrimEnd" Type="Real64" Value="4.29372420703575"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Pistol Shots.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="310953651"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Pistol Shots" ID="{83C46F91-FDE3-4611-9671-7E7DC647E892}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Pistol Shots_02" ID="{63B9B35F-C03B-46F0-B77F-42FECF8F30DB}" ShortID="402506039">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Pistol Shots" ID="{99F03518-1052-4077-B4FA-2642C59C426F}">
+											<PropertyList>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="9.55745919838524"/>
+												<Property Name="TrimEnd" Type="Real64" Value="10.0709943194925"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Pistol Shots.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="238532592"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Pistol Shots" ID="{99F03518-1052-4077-B4FA-2642C59C426F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Pistol Shots_03" ID="{F998E606-CCB1-49E9-ADCE-4408ED0D878F}" ShortID="691011796">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Pistol Shots" ID="{3C144985-DFBD-4A6F-B119-A6D98211DA99}">
+											<PropertyList>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="14.9923725634371"/>
+												<Property Name="TrimEnd" Type="Real64" Value="15.5201725490196"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Pistol Shots.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="649772382"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Pistol Shots" ID="{3C144985-DFBD-4A6F-B119-A6D98211DA99}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="Submachine Guns" ID="{73DF301B-AF83-4FFA-9224-6C45029C0E1E}" ShortID="449875835">
 							<ReferenceList>
