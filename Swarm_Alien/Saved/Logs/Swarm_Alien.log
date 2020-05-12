@@ -853,3 +853,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.12-16.50.52:914][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/WwiseAudio/Media/938570340]
 [2020.05.12-16.50.52:919][  1]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/938570340_Auto15E52401549467A0C151119BC003E5963.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/WwiseAudio/Media/938570340_Auto1.uasset'
 [2020.05.12-16.50.52:922][  1]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.05.12-16.53.18:966][437]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Guns-Submachine_guns23F4E23648FE166EF9FE7DB1D5C670BF.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Submachine_guns.uasset'
+[2020.05.12-16.53.19:193][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.05.12-16.53.19:238][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.12-16.53.19:270][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.05.12-16.53.19:343][438]AssetCheck: New page: Asset Save: Guns-Submachine_guns
+[2020.05.12-16.53.19:343][438]LogContentValidation: Display: Validating AkSwitchValue /Game/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Submachine_guns.Guns-Submachine_guns
+[2020.05.12-16.53.27:793][463]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Guns-PistolsE5B7D46E40894F5FD78A2D9038F9FC0D.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Pistols.uasset'
+[2020.05.12-16.53.28:020][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.05.12-16.53.28:063][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.12-16.53.28:095][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.12-16.53.28:168][464]AssetCheck: New page: Asset Save: Guns-Pistols
+[2020.05.12-16.53.28:168][464]LogContentValidation: Display: Validating AkSwitchValue /Game/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Pistols.Guns-Pistols
+[2020.05.12-16.53.38:957][496]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Guns-Assault_Rifles1D26378D4DE99A01969F108A5F1E3585.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Assault_Rifles.uasset'
+[2020.05.12-16.53.39:184][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.05.12-16.53.39:225][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.05.12-16.53.39:258][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.12-16.53.39:334][497]AssetCheck: New page: Asset Save: Guns-Assault_Rifles
+[2020.05.12-16.53.39:334][497]LogContentValidation: Display: Validating AkSwitchValue /Game/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Assault_Rifles.Guns-Assault_Rifles
+[2020.05.12-16.53.46:452][518]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Guns-Shotguns21E67AA646A3306392EECC88E91650A1.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Shotguns.uasset'
+[2020.05.12-16.53.46:679][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.12-16.53.46:717][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.05.12-16.53.46:749][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.05.12-16.53.46:821][519]AssetCheck: New page: Asset Save: Guns-Shotguns
+[2020.05.12-16.53.46:821][519]LogContentValidation: Display: Validating AkSwitchValue /Game/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Shotguns.Guns-Shotguns
+[2020.05.12-16.53.55:967][546]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Guns-SnipersC598D8314FCEAEEEBDC03CA9CAC451BF.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Content/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Snipers.uasset'
+[2020.05.12-16.53.56:190][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.05.12-16.53.56:229][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.12-16.53.56:257][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.05.12-16.53.56:328][547]AssetCheck: New page: Asset Save: Guns-Snipers
+[2020.05.12-16.53.56:328][547]LogContentValidation: Display: Validating AkSwitchValue /Game/WwiseAudio/Switches/Default_Work_Unit/Guns/Guns-Snipers.Guns-Snipers
+[2020.05.12-17.00.55:077][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.12-17.00.55:349][795]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMap_Auto20195A4134ACA7055496D91A754E4C72C.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.05.12-17.00.55:351][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.303
+[2020.05.12-17.00.55:351][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303

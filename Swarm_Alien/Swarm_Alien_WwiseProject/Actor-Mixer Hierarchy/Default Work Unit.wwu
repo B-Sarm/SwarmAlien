@@ -193,6 +193,125 @@
 						</Sound>
 					</ChildrenList>
 				</RandomSequenceContainer>
+				<SwitchContainer Name="Guns" ID="{AAE8E6E4-4A5F-4A09-B352-2E8C709E1FA3}" ShortID="213832214">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+						</Reference>
+						<Reference Name="DefaultSwitchOrState">
+							<ObjectRef Name="Pistols" ID="{FA72DEBA-2D63-4203-981A-78D962B24C88}" WorkUnitID="{9383BFE0-9864-4983-AB51-6E000F99167D}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+						</Reference>
+						<Reference Name="SwitchGroupOrStateGroup">
+							<ObjectRef Name="Guns" ID="{B365C564-AF07-47CF-8234-CAD713B97055}" WorkUnitID="{9383BFE0-9864-4983-AB51-6E000F99167D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="Assault Rifles" ID="{07F4EF63-82BF-4435-8847-83152FE390BF}" ShortID="177406645">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+								</Reference>
+							</ReferenceList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Pistols" ID="{76B11C38-63C3-427F-8434-D9B70B89D35D}" ShortID="717218220">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+								</Reference>
+							</ReferenceList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Submachine Guns" ID="{73DF301B-AF83-4FFA-9224-6C45029C0E1E}" ShortID="449875835">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+								</Reference>
+							</ReferenceList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Snipers" ID="{83B70C09-DE60-4E51-8795-680EE5A7EBEB}" ShortID="975589046">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+								</Reference>
+							</ReferenceList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Shotguns" ID="{75B9562E-592C-4F92-84B2-62C10D873526}" ShortID="724327735">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{48B9F9EE-97CE-46E8-9AC7-E003C39DBB2F}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{75B05A58-ACB3-44D1-A6B8-22A907211AFF}"/>
+								</Reference>
+							</ReferenceList>
+						</RandomSequenceContainer>
+					</ChildrenList>
+					<GroupingInfo>
+						<GroupingBehaviorList>
+							<GroupingBehavior>
+								<ItemRef Name="Snipers" ID="{83B70C09-DE60-4E51-8795-680EE5A7EBEB}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
+								<ItemRef Name="Submachine Guns" ID="{73DF301B-AF83-4FFA-9224-6C45029C0E1E}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
+								<ItemRef Name="Shotguns" ID="{75B9562E-592C-4F92-84B2-62C10D873526}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
+								<ItemRef Name="Pistols" ID="{76B11C38-63C3-427F-8434-D9B70B89D35D}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
+								<ItemRef Name="Assault Rifles" ID="{07F4EF63-82BF-4435-8847-83152FE390BF}"/>
+							</GroupingBehavior>
+						</GroupingBehaviorList>
+						<GroupingList>
+							<Grouping>
+								<SwitchRef Name="Submachine_guns" ID="{9EAEC523-9991-46BC-AEB0-DDB5106C723E}"/>
+								<ItemList>
+									<ItemRef Name="Submachine Guns" ID="{73DF301B-AF83-4FFA-9224-6C45029C0E1E}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Assault_Rifles" ID="{32935453-F3A5-4794-94E7-E30D984969D7}"/>
+								<ItemList>
+									<ItemRef Name="Assault Rifles" ID="{07F4EF63-82BF-4435-8847-83152FE390BF}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Snipers" ID="{9E932179-095F-4CE8-80E1-CD13EC97E666}"/>
+								<ItemList>
+									<ItemRef Name="Snipers" ID="{83B70C09-DE60-4E51-8795-680EE5A7EBEB}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Pistols" ID="{FA72DEBA-2D63-4203-981A-78D962B24C88}"/>
+								<ItemList>
+									<ItemRef Name="Pistols" ID="{76B11C38-63C3-427F-8434-D9B70B89D35D}"/>
+								</ItemList>
+							</Grouping>
+							<Grouping>
+								<SwitchRef Name="Shotguns" ID="{978D8EDF-6483-46D1-B77A-74A12683564F}"/>
+								<ItemList>
+									<ItemRef Name="Shotguns" ID="{75B9562E-592C-4F92-84B2-62C10D873526}"/>
+								</ItemList>
+							</Grouping>
+						</GroupingList>
+					</GroupingInfo>
+				</SwitchContainer>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
