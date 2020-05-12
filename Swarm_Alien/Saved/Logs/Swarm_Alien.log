@@ -887,3 +887,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.12-17.00.55:349][795]LogSavePackage: Moving '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/ThirdPersonExampleMap_Auto20195A4134ACA7055496D91A754E4C72C.tmp' to '../../../../../../Users/owner/Documents/GitHub/SwarmAlien/Swarm_Alien/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
 [2020.05.12-17.00.55:351][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.303
 [2020.05.12-17.00.55:351][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2020.05.12-17.02.38:685][631]LogAkSoundData: Display: Wwise Asset Synchronization took 0.324331 seconds.
+[2020.05.12-17.02.48:219][ 94]LogSlate: Window 'Generate Sound Data' being destroyed
+[2020.05.12-17.02.48:484][ 98]LogAkSoundData: Display: WAAPI Sound Data Builder task took 0.149842 seconds.
+[2020.05.12-17.02.48:484][ 98]LogAkAudio: Error: Plug-in not found: 7733251
+[2020.05.12-17.02.48:484][ 98]LogAkAudio: Error: Master bus structure not loaded: make sure that the first bank to be loaded contains the master bus information
+[2020.05.12-17.02.48:484][ 98]LogAkAudio: Error: Bank Load Failed
+[2020.05.12-17.17.52:320][896]LogAkAudio: Audio thread resumed, audio restarts.
+[2020.05.12-17.46.27:071][305]LogRenderer: Reallocating scene render targets to support 816x408 Format 10 NumSamples 1 (Frame:222834).
+[2020.05.12-17.46.32:079][355]LogAkAudio: Audio thread suspended.  Audio output will be silent.
+[2020.05.12-17.46.32:715][371]LogAkAudio: Error: AK::SoundEngine::AddOutput()/ReplaceOutput() - Device ShareSet not found in Init bank.
+[2020.05.12-17.46.32:716][371]LogAkAudio: Reverting to default Built-in Audio Device.
+[2020.05.12-17.46.34:395][432]LogAkAudio: Audio thread resumed, audio restarts.
